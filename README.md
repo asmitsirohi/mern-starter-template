@@ -1,8 +1,6 @@
-
 # Mern Starter Template
 
 MERN (MongoDB Express React Node) starter template for easy and fast development
-
 
 ## Run Locally
 
@@ -32,9 +30,10 @@ Start the server
   npm run dev
 ```
 
-  
 ## Feedback
 
 If you have any feedback, please reach out to us at asmitsirohi9761@gmail.com
 
-  
+## Authors
+
+- [@asmitsirohi](https://github.com/asmitsirohi)
